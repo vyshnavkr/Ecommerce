@@ -1,5 +1,3 @@
-import {User} from './user';
-
 export class Book {
 	public id: number;
 	public title: string;
@@ -17,5 +15,4 @@ export class Book {
 	public active: boolean;
 	public description: string;
 	public inStockNumber: number;
-	public user: User ;
 }
