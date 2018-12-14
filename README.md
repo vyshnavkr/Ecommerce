@@ -1,5 +1,5 @@
 # Ecommerce
-*This is a shopping website with two UI: Admin Portal and Store Front* <br /> <br />
+*This is a shopping website built for learning Spring Boot and Angular2 * <br /> <br />
 Technolgies used: <br />
   Front end: Angular2, Angular Material, Bootstrap, Thymeleaf <br />
   Back end: Spring Boot, Spring Security, Spring Data, Spring Rest <br />
